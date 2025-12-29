@@ -10,4 +10,4 @@ Link Website:
 
 NOTE   
 Python Code: Hanya Untuk Menampilkan Grafik  
-GO Code: Program Utama
+GO Code: Program Utama Tugas Besar
