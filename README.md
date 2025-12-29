@@ -9,6 +9,6 @@ NOTE
 Python Code: Hanya Untuk Menampilkan Grafik  
 GO Code: Program Utama Tugas Besar  
 
-Link Laporan, Website, dan Poster:  
+Link Laporan, Poster, dan Website:  
 https://drive.google.com/drive/folders/1CeIweQB0NbV83rsVmKnpTy0k_0UyK_2i?usp=sharing   
 
