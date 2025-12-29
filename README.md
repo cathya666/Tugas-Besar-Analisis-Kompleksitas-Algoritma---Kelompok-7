@@ -1,5 +1,7 @@
 # Tugas Besar Analisis Kompleksitas Algoritma-Kelompok 7
 
+S1 Sains Data - Fakultas Informatika - Universitas Telkom
+
 Pembagian Tugas:  
 Annisa Putri Nur Sa'id - 10305240032 (Bagian Iteratif)  
 Cathya Latisha - 103052400037 (Bagian Rekursif)  
