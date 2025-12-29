@@ -6,4 +6,8 @@ Cathya Latisha - 103052400037 (Bagian Rekursif)
 Anindya Athaya Priyanti - 103052400059 (Bagian Membaca Data dan Main)  
   
 Link Website:  
-[LINK]
+[LINK]  
+
+NOTE   
+Python Code: Hanya Untuk Menampilkan Grafik  
+GO Code: Program Utama
