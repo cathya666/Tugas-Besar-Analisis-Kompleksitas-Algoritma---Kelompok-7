@@ -25,10 +25,10 @@ func readAllInput(n int) []int {
 
 // 1. ITERATIF: Aman (O(1) Ruang)
 // Menerima array yang sudah diisi
-func hitungTotalIteratif(A []int) int {
+func hitungTotalIteratif(A []int, n int) int {
 	total := 0
-	for _, harga := range A {
-		total = total + harga
+	for i := 0; i < n; i++ {
+		total += A[i]
 	}
 	return total
 }
